@@ -11,6 +11,6 @@
 <img width="1091" height="571" alt="image" src="https://github.com/user-attachments/assets/3cde1d96-b996-41c3-a80c-01122bfa9402" />
 <br>
 點選離開或是右上角的叉叉，系統都會再三詢問是否要離開
-<img width="1086" height="568" alt="image" src="https://github.com/user-attachments/assets/85a219b8-09cb-4ea5-9925-a3324ea0a78e" />
 <img width="1090" height="567" alt="image" src="https://github.com/user-attachments/assets/0851889f-c0cc-4c91-9b0c-29a2920821f7" />
 <img width="1087" height="562" alt="image" src="https://github.com/user-attachments/assets/5383a669-f790-4848-8720-d1c11ee3d56b" />
+<img width="1086" height="568" alt="image" src="https://github.com/user-attachments/assets/85a219b8-09cb-4ea5-9925-a3324ea0a78e" />
